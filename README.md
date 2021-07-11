@@ -16,7 +16,9 @@ The greatest increase in profits (date and amount) over the entire period
 
 The greatest decrease in profits (date and amount) over the entire period
 
+
 PyPoll:
+
 The total number of votes cast
 
 
